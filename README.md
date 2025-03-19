@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abalizak
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ecommerce and digital marketing 
 - 📫 abalizak1@gmail.com
 
 <!---
